@@ -7,4 +7,4 @@
 3. "TRANSFORM": te permite modificar el espacio de coordenadas del modelo de formato visual CSS. Usándola, los elementos pueden ser trasladados, rotados, escalados o sesgados de acuerdo a los valores establecidos.
 4.  "GRID-AUTO-FLOW: DENSE": controla cómo funciona el algoritmo de auto colocación, especificando exactamente cómo se colocan los elementos en la cuadrícula; "dense" intenta llenar los huecos antes en la cuadrícula, si aparecen elementos más pequeños más tarde. Esto puede hacer que los elementos parezcan desordenados, cuando hacerlo llenaría los huecos que dejan los elementos más grandes.
 5. "MINMAX": Se usa para limitar el tamaño de los elementos cuando el contenedor de la cuadrícula (grid) cambia de tamaño.
-6. ¿QUE ES UN MEDIA QUERY?: 
+6. ¿QUE ES UN MEDIA QUERY?: le permiten aplicar estilos CSS según el tipo general de un dispositivo (como impresión o pantalla) u otras características como la resolución de la pantalla o el ancho del viewport del navegador.
